@@ -8,6 +8,7 @@ export default class {
 
     // check if CodeMirror is loaded
     if (typeof CodeMirror === 'undefined') {
+      console.log('test')
       throw new Error('CodeMirror is not loaded');
     }
 

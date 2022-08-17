@@ -34,7 +34,7 @@ module.exports = () => {
         short_name: 'JATE',
         description: 'Just Another Text Editor',
         start_url: './',
-        publicPate: './',
+        publicPath: './',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
