@@ -25,6 +25,7 @@ npm run start
 
 ## Screenshot
 
+![JATE pic](https://user-images.githubusercontent.com/101996599/185681424-7753f5d4-6246-4fcd-a8f9-4c6d25010858.JPG)
 
 ## License
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
